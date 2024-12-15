@@ -1,0 +1,79 @@
+cc, 13384485, Cañas Palomino, Luis Alfonso, 1982-05-25, Colombia  
+2021-06-30, sinovac, 04054, Colsubsidio, Mariana Bello  
+2022-01-15, sinovac, 04055, Colsubsidio, Beatriz Benjumea  
+
+cc, 97543423, Cruz Contreras, Luis Armando, 1988-12-12, Colombia  
+2022-02-13, sputnik, 15011, Colsubsidio, Luisa Rojas  
+
+cc, 11345683, Moreno Mora, Ana Maria, 2000-03-28, Colombia  
+2021-09-22, AstraZeneca, 04054, Hospital Santa Clara, Mercedes Cano  
+2022-03-15, Pfizer, 04055, Hospital Santa Clara, Beatriz Roa  
+
+cc, 2584856, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia  
+2021-05-22, Jansen, A4665, Hospital Santa Clara, Mercedes Cano  
+2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa  
+2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez  
+
+cc, 15483927, Alvarez Mendoza, Carolina Isabel, 1995-07-16, Colombia  
+2021-06-10, sinovac, 04123, Colsubsidio, Carlos Perdomo  
+2022-01-25, Pfizer, 04124, Colsubsidio, Mariana Bello  
+
+cc, 84759216, Sanchez Rivera, Andres Felipe, 1986-03-03, Colombia  
+2022-02-20, Moderna, D6741, Hospital el Tunal, Jorge Pelaez  
+
+cc, 10293847, Castillo Vargas, Maria Fernanda, 1993-11-12, Colombia  
+2021-07-18, AstraZeneca, 04135, Hospital Santa Clara, Mercedes Cano  
+2022-03-10, Pfizer, 04136, Hospital Santa Clara, Beatriz Roa  
+
+cc, 17584932, Torres Martinez, Diego Alejandro, 1975-04-22, Colombia  
+2021-05-15, Jansen, A4563, Hospital Santa Clara, Mercedes Cano  
+2021-11-30, Moderna, B7489, Hospital el Tunal, Jorge Pelaez  
+
+cc, 29485713, Ramirez Gonzalez, Paula Andrea, 1990-02-14, Colombia  
+2021-06-25, sinovac, 04127, Colsubsidio, Mariana Bello  
+2022-01-19, Pfizer, 04128, Colsubsidio, Beatriz Benjumea  
+
+cc, 12837495, Vargas Peña, Laura Camila, 1984-09-11, Colombia  
+2021-07-14, AstraZeneca, C9032, Hospital el Tunal, Jorge Pelaez  
+2022-03-22, Pfizer, C9033, Hospital Santa Clara, Beatriz Roa  
+
+cc, 94730258, Gutierrez Torres, Juan Pablo, 1982-06-18, Colombia  
+2021-05-30, Sputnik, 15013, Hospital Santa Clara, Luisa Rojas  
+2021-12-10, Moderna, B7482, Colsubsidio, Mariana Bello  
+
+cc, 12894751, Peña Suarez, Camilo Andres, 1998-01-25, Colombia  
+2021-08-20, AstraZeneca, D7654, Colsubsidio, Carlos Perdomo  
+2022-03-05, Pfizer, D7655, Hospital Santa Clara, Beatriz Roa  
+
+cc, 73849512, Ortiz Rios, Valeria Sofia, 1978-10-07, Colombia  
+2021-06-05, Jansen, A4659, Hospital Santa Clara, Mercedes Cano  
+2021-12-01, Moderna, B7483, Hospital Santa Clara, Beatriz Roa  
+
+cc, 14578239, Fernandez Reyes, Miguel Angel, 1996-08-19, Colombia  
+2021-07-11, sinovac, 04145, Colsubsidio, Mariana Bello  
+2022-02-18, Pfizer, 04146, Colsubsidio, Beatriz Benjumea  
+
+cc, 87591023, Medina Correa, Juliana, 1985-05-02, Colombia  
+2021-05-28, Sputnik, 15018, Hospital el Tunal, Jorge Pelaez  
+2021-12-15, Moderna, C9288, Colsubsidio, Mariana Bello  
+
+cc, 92384756, Navarro Velasquez, Sebastian, 1991-03-15, Colombia  
+2021-08-10, AstraZeneca, 04147, Hospital Santa Clara, Mercedes Cano  
+2022-03-27, Pfizer, 04148, Hospital Santa Clara, Beatriz Roa  
+
+cc, 29384756, Castro Ramirez, Daniela Sofia, 1983-12-24, Colombia  
+2021-06-18, sinovac, 04130, Colsubsidio, Carlos Perdomo  
+2022-01-12, Moderna, B7490, Hospital Santa Clara, Beatriz Roa  
+
+cc, 18294765, Cardenas Prieto, Nicolas, 1987-04-14, Colombia  
+2021-05-23, Jansen, A4652, Hospital Santa Clara, Mercedes Cano  
+2021-12-07, Moderna, B7486, Hospital Santa Clara, Beatriz Roa  
+
+cc, 10293847, Lopez Camacho, Diana Maria, 1994-02-11, Colombia  
+2021-07-12, AstraZeneca, C9286, Hospital el Tunal, Jorge Pelaez  
+2022-03-14, Pfizer, C9287, Hospital Santa Clara, Beatriz Roa  
+
+cc, 12984765, Morales Salazar, Sofia Alejandra, 1980-06-30, Colombia  
+2021-06-03, Sputnik, 15020, Colsubsidio, Mariana Bello  
+2021-12-11, Moderna, B7485, Hospital el Tunal, Jorge Pelaez  
+
